@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<TestCases>
+  
+  <TestInsertSymbol id="InsertSymbol_ValidPosition">
+      <Input>12345</Input>
+      <Symbol>+</Symbol>
+      <Position>2</Position>
+    <Expected>12+45</Expected>
+  </TestInsertSymbol>
+  
+  <TestInsertSymbol id="InsertSymbol_PositionAtStart">
+      <Input>12345</Input>
+      <Symbol>-</Symbol>
+      <Position>0</Position>
+    <Expected>-2345</Expected>
+  </TestInsertSymbol>
+
+  <TestInsertSymbol id="InsertSymbol_PositionAtEnd">
+    <Input>12345</Input>
+    <Symbol>*</Symbol>
+    <Position>4</Position>
+    <Expected>1234*</Expected>
+  </TestInsertSymbol>
+
+
+  
+  <TestIsOperator id="IsOperator_ValidOperator">
+    <Input>+</Input>
+    <Expected>true</Expected>
+  </TestIsOperator>
+
+  <TestIsOperator id="IsOperator_InvalidOperator">
+    <Input>a</Input>
+    <Expected>false</Expected>
+  </TestIsOperator>
+
+  <TestIsOperator id="IsOperator_ValidOperator2">
+    <Input>*</Input>
+    <Expected>true</Expected>
+  </TestIsOperator>
+
+  <TestIsOperator id="IsOperator_ValidOperatorMod">
+    <Input>%</Input>
+    <Expected>true</Expected>
+  </TestIsOperator>
+  
+</TestCases>
