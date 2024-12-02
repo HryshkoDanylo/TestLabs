@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Lab 2 SpecFlow\PageObject1\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\User\source\repos\Lab 2 SpecFlow\PageObject1\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\User\source\repos\Lab 2 SpecFlow\PageObject1\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\User\source\repos\Lab 2 SpecFlow\PageObject1\bin\Debug\net6.0\PageObject1.deps.json
+C:\Users\User\source\repos\Lab 2 SpecFlow\PageObject1\bin\Debug\net6.0\PageObject1.dll
+C:\Users\User\source\repos\Lab 2 SpecFlow\PageObject1\bin\Debug\net6.0\PageObject1.pdb
+C:\Users\User\source\repos\Lab 2 SpecFlow\PageObject1\obj\Debug\net6.0\PageObject1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lab 2 SpecFlow\PageObject1\obj\Debug\net6.0\PageObject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab 2 SpecFlow\PageObject1\obj\Debug\net6.0\PageObject1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab 2 SpecFlow\PageObject1\obj\Debug\net6.0\PageObject1.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab 2 SpecFlow\PageObject1\obj\Debug\net6.0\PageObject1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab 2 SpecFlow\PageObject1\obj\Debug\net6.0\PageObject1.dll
+C:\Users\User\source\repos\Lab 2 SpecFlow\PageObject1\obj\Debug\net6.0\refint\PageObject1.dll
+C:\Users\User\source\repos\Lab 2 SpecFlow\PageObject1\obj\Debug\net6.0\PageObject1.pdb
+C:\Users\User\source\repos\Lab 2 SpecFlow\PageObject1\obj\Debug\net6.0\ref\PageObject1.dll
